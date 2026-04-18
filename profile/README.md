@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="logo.png" alt="ProsperSoft Logo" width="120" />
-
-  <h1>ProsperSoft</h1>
+  <img src="logo.png" alt="ProsperSoft Logo" width="250" />
+  
   <p><strong>Construímos software que transforma negócios.</strong></p>
 
   <p>
